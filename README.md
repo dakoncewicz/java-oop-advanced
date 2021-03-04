@@ -6,7 +6,7 @@ Przykładowa Struktura Folderów :
     |
     +-- Encapsulation-Abstraction/ // Pierwszy Temat w dniu pierwszym : pryncypia OOP - Enkapsulacja i Abstrakcja  
         |
-        +-- Start/                 // Pliki początkowe - przekopiuj je do katalogu src/.. 
+        +-- Start/                 // Pliki początkowe - przekopiuj je do katalogu src/..  
         |
         +-- Finish/                // Końcowa wersja plików D1 Java OOP/ Encapsulation-Abstraction.  
   
